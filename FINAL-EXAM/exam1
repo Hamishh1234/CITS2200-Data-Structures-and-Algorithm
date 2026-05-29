@@ -1,0 +1,30 @@
+Q1. 
+
+(a) Explain the merge step of the mergesort algorithm. What is the overall complexity of merging in the mergesort algorithm for an input of size $n$? Explain your answer. 
+
+(b) Explain the heap data structure Explain how the heap data structure can be used for sorting an unsorted array of $n$ integers in ascending order. 
+
+Q2. 
+
+(a) Write a class definition and a constructor in Java for the Link class for implementing a singly linked list. Write a class definition and constructor in Java for the DoubleLink class for implementing a doubly linked list. You can assume that the item stored in a node is an integer. 
+
+(b) You are given a reference `current' of a node in a doubly linked list. Write a Java method insertBefore() that inserts another node before `current' with an item e. You can assume that `current' is neither the first node nor the last node in the list (that means you need not take care of special cases).
+
+Q3. 
+
+(a) Explain why (i) O(n^2) is O(n^3), and (ii) O(n^2) is not O(n)
+
+(b) Explain clearly when amortized complexity analysis is useful and important. Consider an operation multiDequeue(i) for a queue. multiDequeue(i) removes i elements from the front of a queue. What is the amortized complexity of multiDequeue(i)?
+
+Q4. 
+
+(a) Explain the inorder, preorder and postorder traversals of a tree. Explain how breadth-first search can be used for determining whether a graph has one or more connected components. 
+
+(b) Explain clearly Kruskal's minimum spanning tree algorithm. Explain how Kruskal's algorithm avoids adding cycles to the spanning tree. What is the complexity of Kruskal's algorithm? Explain your answer. 
+
+Q5. 
+
+(a) Explain how Dijkstra's single-source-shortest-path algorithm can be implemented using a priority search tree. What is the complexity of Dijkstra's algorithm? Explain your answer. 
+
+(b) Explain clearly how dynamic programming is used in the Floyd-Warshall algorithm (Note: Just writing the pseudo-code of the Floyd-Warshall algorithm is not an answer for this question). What is the comlexity of the Floyd-Warshall algorithm? 
+Explain your answer. 

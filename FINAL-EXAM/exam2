@@ -1,0 +1,24 @@
+Q1. [6+6] 
+(a) Explain the QuickSort algorithm in your own words. You will not get any mark if you just write the pseudocode. 
+
+(b) What is the worst-case time complexity of the QuickSort algorithm? Explain your answer. Write a recurrence relation for the complexity of the QuickSort algorithm. 
+
+Q2. [6+6]
+(a) Explain in your own words how a priority queue can be implemented as a heap. What is the heap property? How can the heap property be restored when the element at the root of the heap is deleted? 
+
+(b) You are given an unsorted array. Design an algorithm for sorting the array by using another array of the same length as a heap. What is the complexity of your algorithm? 
+
+Q3. [6+6] 
+(a) You are given an unsorted array of integers, and  a query 'q'. Design an algorithm to determine whether there are two integers i and j in the array such that i+j=q. What is the complexity of your algorithm? Explain. 
+
+(b) Explain the non-recursive depth first search algorithm for a graph in your own words. Explain the complexity of the algorithm. You will not get any mark if you just write the pseudo code. 
+
+Q4. [6+6]
+(a) Explain in your own words Kruskal's algorithm for constructing a minimum weight spanning tree of an undirected graph. Explain briefly how it can be implemented. 
+
+(b)  Explain in your own words the Bellman-Ford single-source shortest path algorithm. Explain how this algorithm detects a negative-weight cycle in a graph. What is the complexity of the Bellman-Ford algorithm?
+
+Q5. [6+6]
+(a) Explain Dijkstra's single-source shortest path algorithm in your own words. What is the complexity of this algorithm? What is the complexity of an algorithm that uses Dijkstra's algorithm for solving the all-pairs shortest path algorithm?
+
+(b) Explain the Floyd-Warshall all-pairs shortest path algorithm in your own words. Explain how dynamic programming is used in this algorithm. What is the complexity of this algorithm? You will not get any mark if you just write the pseudo code.  
